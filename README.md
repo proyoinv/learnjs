@@ -1,0 +1,2 @@
+# learnjs
+teach myself javascript
